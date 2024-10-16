@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Dev\\ContatoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContatoMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ContatoMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T03:30:23.663Z",
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "ContatoMVC\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Data\\BancoContext.cs",
+              "RelativeToolTip": "ContatoMVC\\Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:56:21.13Z",
               "EditorCaption": ""
             }
           ]
