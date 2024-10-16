@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Dev\\ContatoMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:295907318:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContatoMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContatoMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:30:23.663Z",
+              "EditorCaption": ""
             }
           ]
         }
