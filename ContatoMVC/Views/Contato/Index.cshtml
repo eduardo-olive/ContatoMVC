@@ -12,8 +12,7 @@
 <div class="text-center">
     @if (Model != null && Model.Any())
     {
-        <table class="table">
-            <thead>
+        <table class="table">            <thead>
                 <tr>
                     <th>Nome</th>
                     <th>Sobre Nome</th>
@@ -32,8 +31,10 @@
                         <td>@contato.Telefone</td>
                         <td>
                             <div class="btn-group" role="group" arial-label="Basic exemple">
-                                <a role="button" class="btn btn-info" asp-controller="Contato" asp-action="Editar" asp-route-id="@contato.Id">Editar</a>
-                                <a role="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarConfirmacao" asp-route-id="@contato.Id">Apagar</a>
+                                <a role="button" class="btn btn-info btn-sm" asp-controller="Contato" asp-action="Editar" asp-route-id="@contato.Id">Editar</a> 
+                                <form class="d-inline-block" asp-controller="Contato" asp-action="Apagar" asp-route-id="@contato.Id" method="post">
+                                    <button class="btn btn-danger btn-sm" onclick="confirmaExclusao(this);" type="button">Apagar</button>
+                                </form>
                             </div>
                         </td>
                     </tr>
@@ -47,3 +48,9 @@
     }
     
 </div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_CustomConfirm");
+    }
+}

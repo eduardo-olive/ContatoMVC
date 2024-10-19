@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Dev\\ContatoMVC\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|c:\\dev\\contatomvc\\contatomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830244DA-996F-4C33-BDBA-5DACABB48C44}|ContatoMVC\\ContatoMVC.csproj|solutionrelative:contatomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,47 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Criar.cshtml",
-              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Contato\\Criar.cshtml",
-              "RelativeDocumentMoniker": "ContatoMVC\\Views\\Contato\\Criar.cshtml",
-              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Views\\Contato\\Criar.cshtml",
-              "RelativeToolTip": "ContatoMVC\\Views\\Contato\\Criar.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T14:47:59.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "ContatoMVC\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "ContatoMVC\\Controllers\\ContatoController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:41:58.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContatoModel.cs",
-              "DocumentMoniker": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Models\\ContatoModel.cs",
-              "RelativeDocumentMoniker": "ContatoMVC\\Models\\ContatoModel.cs",
-              "ToolTip": "C:\\Dev\\ContatoMVC\\ContatoMVC\\Models\\ContatoModel.cs",
-              "RelativeToolTip": "ContatoMVC\\Models\\ContatoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:38:50.319Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
