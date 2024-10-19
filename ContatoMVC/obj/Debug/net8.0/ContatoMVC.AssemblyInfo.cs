@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContatoMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c1e823937376ffebfd4c1f5c0c6f1262b258325")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d0b34ca99faffb8e18434d51b2e21de35ebaa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContatoMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContatoMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
